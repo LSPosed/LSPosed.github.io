@@ -2,5 +2,5 @@
   "versionCode": 72,
   "version": "v0.3.0 (72)",
   "zipUrl": "https://github.com/LSPosed/LSPosed.github.io/releases/download/shamiko-72/Shamiko-v0.3.0-72-release.zip",
-  "changelog": "#### 0.3.0\r\n1. Support whitelist (enable by creating an empty file `/data/adb/shamiko/whitelist`)\r\n1. Always unshare (useful for old platforms and isolated processes in new platforms)\r\n1. Request Magisk 23017+, which allows us to strip Java daemon and change denylist regardless of enforcement status\r\n1. Temporarily disable showing status in module description (need to find a new way for it)\r\n1. Support module update since Magisk 23017"
+  "changelog": "shamiko_changelog.md"
 }
