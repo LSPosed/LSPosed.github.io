@@ -1,2 +1,2 @@
-### 0.4.2
-1. Fix app zygote crash on Android 10-
+### 0.4.3
+1. Fix tmp mount being detected
