@@ -1,4 +1,4 @@
-### 0.5.0
-- Better hiding Zygisk
+### 0.5.1
+- Support Magisk 25+
 
-Note: Hiding some system apps won't work since 0.2.0. It is a Magisk's bug, and it has been fixed since 24102+.
+**Note**: Some 💩 modules like "storage-isolation-enhanced" will reveal the existence of Zygisk. You may need to disable them.
