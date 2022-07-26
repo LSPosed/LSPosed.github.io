@@ -1,2 +1,2 @@
-### 0.5.1
-- Support Magisk 25+
+### 0.5.2
+- Enhancement
