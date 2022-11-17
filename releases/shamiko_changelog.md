@@ -1,2 +1,2 @@
-### 0.5.2
-- Enhancement
+### 0.6
+- Hide more trace of Zygisk
