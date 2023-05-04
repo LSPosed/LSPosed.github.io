@@ -1,8 +1,5 @@
-### 0.7
+### 0.7.1
 
-_Requires Magisk 26000+_
+_Requires Magisk 26000+ / KernelSU 10818+_
 
-1. Support Magisk 26.0
-2. Fix font loading
-3. Hide more traces of Magisk
-4. Support zygisk loaded by native bridge
+1. Merge Magisk and KernelSU branch
