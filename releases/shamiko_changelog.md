@@ -1,5 +1,5 @@
-### 0.7.1
+### 0.7.2
 
-_Requires Magisk 26000+ / KernelSU 10818+_
-
-1. Merge Magisk and KernelSU branch
+1. Fix a bug causing Zygisk on KernelSU failed to unload
+2. Abandon a useless fix leading to more detection
+3. Clean service.sh
