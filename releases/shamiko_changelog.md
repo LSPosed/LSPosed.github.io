@@ -1,3 +1,7 @@
+### 1.0.1
+
+- Fix Android 10 support
+
 ### 1.0
 
 1. Hide more traces of Zygisk, passing more detection (e.g., ACE, GoTyme Bank, MyTransport.SG, ZainCash, DBS PayLah!, Singpass, Marriott, BPI, Apps using liapp, Apps using Arxan like CaixaBank Sign, etc.)
