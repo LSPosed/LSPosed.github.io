@@ -1,6 +1,4 @@
-### 1.1
+### 1.1.1
 
-- Support Magisk Canary 27003
-- Provide better hiding for font modules
-- Minor bug fixes and compatibility updates
-- Drop redundant resetprop handling
+- Improve compatibility with some modules and upcoming ZygiskNext update
+- Require Magisk Canary 27005+ or KernelSU 11903+ due to XZ zip format change
