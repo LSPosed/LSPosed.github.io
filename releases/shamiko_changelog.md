@@ -1,5 +1,4 @@
-### 1.2.1
+### 1.2.4
 
-- Drop dependency on tmpfs workdir and don't rely on any mounts
-- Refine hiding mechanism
-- Improve stability and compatibility (Recommend updating ZygiskNext to latest version to perform optimally)
+- Fix compatibility with A16 QPR1
+- Fix some other issues
