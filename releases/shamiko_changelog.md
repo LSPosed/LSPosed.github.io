@@ -1,4 +1,5 @@
-### 1.2.4
+### 1.2.5
 
-- Fix compatibility with A16 QPR1
-- Fix some other issues
+- Fix compatibility with Frida
+- Force create no_mount_znctl
+- Fix issues under 16K page size
